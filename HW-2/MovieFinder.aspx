@@ -6,7 +6,7 @@
 <head runat="server">
     <title>Movie Finder</title>
     <style>
-        h1, h3, p {
+        h1, h2, h3, p {
             display: inline;
         }
     </style>
